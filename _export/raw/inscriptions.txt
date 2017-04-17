@@ -1,0 +1,14 @@
+====== Inscriptions ======
+
+Quelques informations pratiques sur le déroulement de la journée :
+
+  * La conférence débute à 9h et se termine à 18h
+  * Le repas de midi est compris dans le tarif d'inscription 
+  * L'inscription se fait obligatoirement en ligne
+  * Le nombre de places disponibles est limité
+
+Pour une commande groupée, envoyer un message à [[contact@pgday.fr]]
+
+<html>
+<script type="text/javascript" src="https://www.amiando.com/resources/js/amiandoExport.js"></script><iframe src="https://www.amiando.com/pgdayfr2013.html?viewType=iframe&distributionChannel=CHANNEL_IFRAME&panelId=1936707&useDefaults=false&resizeIFrame=true" frameborder="0" width="650px" height="450px" name="_amiandoIFrame1936707AAkAWXd5" id="_amiandoIFrame1936707AAkAWXd5"><p>Cette page utilise des Frames. Veuillez donc utiliser un navigateur supportant les Frames pour voir le widget de la <a href="http://fr.amiando.com/">billetterie en ligne</a>.</p></iframe>
+</html>

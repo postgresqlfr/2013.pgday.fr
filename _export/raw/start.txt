@@ -1,0 +1,28 @@
+
+====== PG Day France 2013 ======
+
+
+L'édition 2013 a eu lieu le 13 juin à Nantes.
+
+Retrouvez les présentations des orateurs sur cette page :  https://www.pgday.fr/programme
+
+<note important>
+Vous avez participé au PG Day France 2013 ?
+
+Donnez-nous votre avis sur l'organisation :
+
+http://www.postgresql.fr/feedback_pgdayfr
+
+et sur les intervenants :
+
+http://www.postgresql.fr/feedback_pgdayfr_orateurs
+</note>
+
+
+===== Twitter =====
+
+
+Hashtag #pgdayfr : 
+
+https://twitter.com/search?q=%23pgdayfr&src=typd
+

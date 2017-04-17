@@ -1,0 +1,38 @@
+====== Participer ======
+
+~~NOTOC~~
+
+Le PG Day France est un événement à but non lucratif.
+Les éventuels profits réalisés lors de cet événement seront réinvestis dans les autres activités de [[http://www.postgresql.fr|l'association PostgreSQLFr]]. 
+
+Vous pouvez nous aider de plusieurs façons :
+
+===== Volontaires =====
+
+Si vous voulez nous soutenir, avant ou pendant l'événement, vous pouvez :
+
+  * promouvoir l'événement. Parler de PGDay-France autour de vous et dans les groupes informatiques locaux ;
+
+  * placer notre [[banners|bannière]] sur votre site ;
+
+  * annoncer le PGDay sur votre site et créer un lien vers notre site.
+
+Nous recherchons également des bénévoles pour différentes activités pendant les conférences (accueil, traduction, préparation).
+
+La charge de travail n'est pas forcément importante, mais les petites gouttes d'eau font les grandes rivières. 
+
+**[[contact|Contactez-nous]] si vous êtes intéressés !** \\
+
+Vous pouvez aussi nous rejoindre sur la  [[http://listes.postgresql.fr/cgi-bin/mailman/listinfo/pgday|liste de discussion des organisateurs du PGDay]].
+
+
+===== Sponsoring =====
+
+La [[campagne de partenariat]] du PG Day France 2013 est lancé.
+
+
+===== Orateurs =====
+
+Vous travaillez avec PostgreSQL ou sur un projet libre lié à PostgreSQL ? N'hésitez pas à proposez votre candidature pour une conférence au PgDay-France
+
+Consultez notre page d'[[appel à orateurs]]

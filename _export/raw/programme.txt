@@ -1,0 +1,41 @@
+====== Programme ======
+
+
+<note important>
+Vous avez participé au PG Day France 2013 ?
+
+Donnez-nous votre avis sur l'organisation :
+
+http://www.postgresql.fr/feedback_pgdayfr
+
+et sur les intervenants :
+
+http://www.postgresql.fr/feedback_pgdayfr_orateurs
+</note>
+
+
+Retrouvez les présentations de chaque orateur ci-dessous :
+
+{{:keynote_jpa.pdf|Keynote d'ouverture}}
+
+{{:mcp.pdf|Gestion de la capacité des ressources mémoire}}
+ par Cédric Villemain / 2ndQuadrant 
+
+{{:pgdayfr-postgresql_9.3-start.pdf|Nouveautés de PostgreSQL 9.3}}par Damien Clochard / DALIBO
+
+
+{{:ma_base_de_donnees_tiendrait-elle_la_charge.pdf|Ma base de données tiendrait-elle la charge ?}} par Philippe Beaudouin / BULL
+
+
+{{:postgis20_fr.pdf|PostGIS 2.x et au delà}} par Hugo Mercier	/ Oslandia 
+
+
+[[http://pomm.coolkeums.org/pgday2013/build/presentation.html|OMM versus ORM]] par Grégoire Hubert / Consultant Indépendant 
+
+{{:ora2pg-performances.pdf|ora2pg - Migration à Grande Vitesse}} par Gilles Darold  / DALIBO
+
+{{::petabyte.pdf|Vers le Peta Byte avec PostgreSQL}} par Dimitri Fontaine / 2ndQuadrant 
+
+{{::comprendre_explain.pdf|Comprendre EXPLAIN}} par Guillaume Lelarge / DALIBO
+
+{{:lateral_nantes.pdf|Requêtes LATERALes}} par Vik Fearing / DALIBO 

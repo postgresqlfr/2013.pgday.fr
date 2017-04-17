@@ -1,0 +1,10 @@
+~~NOTOC~~
+
+====== Bannière ======
+
+[[http://pgday.fr/_media/banniere_pgdayfr2013.png|{{:banniere_pgdayfr2013_petit.png|}}]]
+
+  * Taille: 700 * 120 px
+  * URL: http://pgday.fr/_media/banniere_pgdayfr2013.png
+
+
